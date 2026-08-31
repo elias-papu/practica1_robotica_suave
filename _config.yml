@@ -1,13 +1,17 @@
 title: Proxémica y Navegación Robótica
 description: "Práctica de Laboratorio — Robótica, IBERO Ciudad de México"
+
 theme: just-the-docs
 color_scheme: light
-url: ""
+
+url: "https://elias-papu.github.io"
 baseurl: "/practica1_robotica_suave"
+
 nav_sort: order
 search_enabled: true
 back_to_top: true
 back_to_top_text: "↑ Subir"
 math: mathjax
+
 plugins:
   - jekyll-seo-tag
