@@ -3,7 +3,7 @@ description: "Práctica de Laboratorio — Robótica, IBERO Ciudad de México"
 theme: just-the-docs
 color_scheme: light
 url: ""
-baseurl: "/practica-proxemica-robotica"
+baseurl: "/practica1_robotica_suave"
 nav_sort: order
 search_enabled: true
 back_to_top: true
