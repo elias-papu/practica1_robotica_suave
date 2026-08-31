@@ -60,7 +60,7 @@ de ejecución: **[sitio publicado en GitHub Pages](#publicar-el-sitio)**.
 2. En **Settings → Pages**, en "Source" selecciona **GitHub Actions**.
 3. Ve a la pestaña **Actions** y espera a que termine el workflow *Deploy Jekyll to GitHub
    Pages* (1–2 minutos).
-4. El sitio queda disponible en `https://<tu-usuario>.github.io/<nombre-del-repo>/`.
+4. El sitio queda disponible en `https://elias-papu.github.io/practica1_robotica_suave/`.
 > Si el nombre del repositorio no es `practica-proxemica-robotica`, actualiza el valor de
 > `baseurl` en `_config.yml` para que coincida exactamente con el nombre del repo.
  
